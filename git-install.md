@@ -4,7 +4,7 @@ windows 기준입니다
 
 ***
 
-## GIT 설치하기
+## 1. GIT 설치하기
 - [GIT 공식 사이트](https://git-scm.com/downloads "GIT 공식 사이트")에서 GIT 프로그램 다운로드
 - PC에 적합한 bit의 installer로 자동 다운로드됨
 - 다운 받은 파일을 열어 설치 진행
@@ -14,7 +14,7 @@ windows 기준입니다
 
 ***
 
-## GIT SSH 생성하기
+## 2. GIT SSH 생성하기
 - windows 시작 버튼에서 "git bash" 검색하고 실행
 - **ssh-keygen -t rsa -C "git계정"**을 입력 
    - 따옴표 안에는 GITHUB에 가입한 이메일 입력합니다
@@ -30,7 +30,7 @@ windows 기준입니다
 
 ***
 
-## GITHUB에 SSH KEY 등록하기
+## 3. GITHUB에 SSH KEY 등록하기
 - GITHUB 로그인 후 우측 상단 자신의 프로필을 클릭, 하단의 settings 클릭
 - 좌측 personal settings에서 **SSH and GPG keys** 클릭 
 - 우측 상단의 **New SSH key** 버튼을 클릭
@@ -40,7 +40,7 @@ windows 기준입니다
 
 ***
 
-## GITHUB SSH 연결 확인하기
+## 4. GITHUB SSH 연결 확인하기
 - windows 시작 버튼에서 "git bash" 검색하고 실행
 - 창에 다음 코드를 입력 **ssh -T git@github.com**
 - 창에 나타난 key fingerprint가 맞다면 질문에 **yes**를 입력하고 enter

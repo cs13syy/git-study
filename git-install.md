@@ -8,7 +8,7 @@ windows 기준입니다
 2. PC에 적합한 bit의 installer로 자동 다운로드됨
 3. 다운 받은 파일을 열어 설치 진행
 4. 설치 내역 모두 default 상태로 next 버튼만 클릭
-   *default 상태로 설치 진행하면 GIT 환경변수가 자동 설정됩니다
+   (default 상태로 설치 진행하면 GIT 환경변수가 자동 설정됩니다)
 5. finish 버튼 클릭하면 설치 완료
 
 

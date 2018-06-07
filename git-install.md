@@ -43,6 +43,6 @@ windows 기준입니다
 ## GITHUB SSH 연결 확인하기
 - windows 시작 버튼에서 "git bash" 검색하고 실행
 - 창에 다음 코드를 입력 **ssh -T git@github.com**
-- 창에 나타난 key fingerprint가 맞다면 질문에 **yes**를 입력
+- 창에 나타난 key fingerprint가 맞다면 질문에 **yes**를 입력하고 enter
 - 창에 다음의 메시지가 나타나면 ssh가 정상적으로 연결된 것입니다
    - **Hi username! You've successfully authenticated, but GitHub does not provide shell access.**

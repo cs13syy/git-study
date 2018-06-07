@@ -1,6 +1,6 @@
 # GIT 설치 및 SSH 설정
 windows 기준입니다
-===
+
 ## GIT 설치하기
 1. [GIT 공식 사이트](https://git-scm.com/downloads "GIT 공식 사이트")에서 GIT 다운로드
 2. PC에 적합한 bit의 installer로 자동 다운로드됨
